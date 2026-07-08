@@ -1,0 +1,25 @@
+# Env
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# Uploads (local dev files)
+backend/uploads/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
